@@ -1,0 +1,10 @@
+.page-content-wrapper {
+    width: 100%;
+    position: absolute;
+}
+
+@media (min-width: 768px) {
+    .page-content-wrapper {
+        position: relative;
+    }
+}
