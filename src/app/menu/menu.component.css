@@ -2,11 +2,12 @@
     z-index: 1000;
     position: fixed;
     left: 250px;
-    width: 0;
+    width: 0; /*Increase the width to show menu to 250px*/
     height: 100%;
     margin-left: -250px;
     overflow-y: auto;
     background-color: #cdc8ca;
+    margin-top: 68px;
 }
 
 @media (min-width: 768px) { 
