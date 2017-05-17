@@ -1,0 +1,3 @@
+Mayo 16
+1. Arreglar que el header esté fixed.
+2. 
