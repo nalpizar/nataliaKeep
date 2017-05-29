@@ -1,3 +1,2 @@
-Mayo 16
-1. Arreglar que el header esté fixed.
-2. 
+Notas:
+Todo se ve bien.
